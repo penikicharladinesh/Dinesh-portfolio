@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio repository! This website serves as a live professional showcase of my technical skills, software projects, and engineering journey.
 
-🔗 **Live Deployment Link:** https://penikicharladinesh.github.io/Dinesh-portfolio/
+🔗 **Live Deployment Link:**  https://penikicharladinesh.github.io/Dinesh-portfolio/
 
 ---
 
